@@ -10,7 +10,7 @@ const inter = Inter({
 export const dynamic = "force-dynamic";
 
 export const metadata = {
-  title: "Chef GPT",
+  title: "Book GPT",
   description: "Handcrafed with ❤️ by Arjun Khanna",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
